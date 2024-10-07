@@ -1,7 +1,31 @@
 {{>layouts/header}}
-
-
-<h1>Spotify Music Search Results</h1>
-<h1>{{response1}}</h1>
+<title>Spotify 검색 결과</title>
+<!-- 검색 결과 리스트 -->
+<div class="container mt-5">
+    <h1 class="mb-4">Result</h1>
+    <p>총 {{totalTracks}}곡이 검색되었습니다.</p> <!-- 총 곡 수 표시 -->
+    <p>원하는 곡을 클릭하여 곡의 Spotify 트랙페이지로 이동 할 수 있습니다.</p>
+    <ul class="list-group">
+        {{#searchResults}}
+            <li class="list-group-item">
+                <a href="{{spotifyUrl}}" class="spotify-link" target="_blank">
+                    <div class="media align-items-lg-center flex-column flex-lg-row p-3">
+                        <div class="media-body order-2 order-lg-1">
+                            <h5 class="mt-0 font-weight-bold mb-2">{{artistName}} - {{trackName}}</h5>
+                            <p class="font-italic text-muted mb-0 small">{{albumName}}</p>
+                            <div class="d-flex align-items-center justify-content-between mt-1">
+                                <h6 class="font-weight-bold my-2">{{playtime}}</h6>
+                            </div>
+                        </div>
+                        <img src="{{albumImageUrl}}" alt="Album Image" class="album-image ml-lg-5 order-1 order-lg-2">
+                    </div>
+                </a>
+            </li>
+        {{/searchResults}}
+    </ul>
+</div>
 
 {{>layouts/footer}}
+
+</body>
+</html>
