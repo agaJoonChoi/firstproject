@@ -115,22 +115,30 @@ p {
     margin-right: 20px; /* 첫 번째 폼(로그인 버튼)의 오른쪽 마진을 늘립니다. */
 }
 
-.bg-dark {
-    background-color: #000; /* 검은 배경색 설정 */
-    background-image: url('images/billboard.png'), url('images/spotify.png'); /* 두 개의 배경 이미지 추가 */
-    background-size: 25% , 25%; /* 두 이미지 모두 원래 크기의 반의 반으로 줄임 */
-    background-repeat: no-repeat, no-repeat; /* 이미지 반복 없음 */
-    background-position: right 10px bottom -30px, right 10px bottom -10px; /* 첫 번째 이미지를 오른쪽 10px, 아래 10px에 배치하고, 두 번째 이미지를 오른쪽 50px, 아래 10px에 배치 */
-    background-blend-mode: overlay; /* 이미지와 배경색 혼합 모드 설정 */
-    background: url('images/background-image.jpg') no-repeat center center fixed;
-    background-size: cover;
-    position: relative;
-}
 
 .bg-dark-no-image {
     background-image: none; /* 배경 이미지 제거 */
 }
 
+.bg-dark {
+    background-color: #000; /* 검은 배경색 설정 */
+    background-image:
+            url('images/billboard.png'), /* 첫 번째 이미지 (빌보드) */
+            url('images/spotify.png'),   /* 두 번째 이미지 (스포티파이) */
+            url('images/background-image.jpg'); /* 고정 배경 이미지 */
+    background-size:
+            150px 150px, /* 빌보드 이미지 크기 */
+            150px 150px, /* 스포티파이 이미지 크기 */
+            cover;       /* 배경 이미지 전체 화면에 맞추기 */
+    background-repeat: no-repeat, no-repeat, no-repeat; /* 이미지 반복 없음 */
+    background-position:
+            right 100px bottom 50px, /* 빌보드 이미지 위치 */
+            right 250px bottom 50px, /* 스포티파이 이미지 위치 */
+            center center; /* 기본 배경 이미지는 중앙에 배치 */
+    position: relative;
+}
+
+/* 배경 이미지 위에 투명도 효과 추가 */
 .bg-dark::before {
     content: "";
     position: absolute;
@@ -142,7 +150,9 @@ p {
     z-index: 1;
 }
 
+/* 배경 이미지 위에 있는 컨텐츠에 대한 스타일 */
 .bg-dark .container {
     position: relative;
     z-index: 2;
+    color: white; /* 텍스트 색상을 흰색으로 설정 */
 }
