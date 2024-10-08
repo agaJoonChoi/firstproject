@@ -1,26 +1,31 @@
 package com.example.firstproject.controller;
 
-import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.*;
-import org.springframework.web.client.HttpClientErrorException;
-import org.springframework.web.client.HttpServerErrorException;
-import org.springframework.web.client.RestTemplate;
+import com.example.firstproject.service.BillboardService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
 
-@RestController
-@RequestMapping("/api")
+import java.util.List;
+import java.util.Map;
+
+@Controller
 public class BillboardController {
 
-    @GetMapping("/billboard")
-    public ResponseEntity<String> getBillboardData() {
-        String url = "http://localhost:5000/billboard";  // Python 서버 URL
-        RestTemplate restTemplate = new RestTemplate();
-        try {
-            String result = restTemplate.getForObject(url, String.class);
-            return ResponseEntity.ok(result);
-        } catch (HttpClientErrorException | HttpServerErrorException e) {
-            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
-        } catch (Exception e) {
-            return ResponseEntity.status(500).body("Internal Server Error: " + e.getMessage());
+    @Autowired
+    private BillboardService billboardService;
+
+    @GetMapping("/billboard/top100")
+    public String getBillboardTop100(Model model) {
+        List<Map<String, Object>> top100 = billboardService.getBillboardTop100();
+
+        if (top100 == null) {
+            model.addAttribute("error", "Unable to fetch Billboard Top 100.");
+            return "error";
         }
+
+        model.addAttribute("top100", top100);
+        return "billboard";
     }
+
 }

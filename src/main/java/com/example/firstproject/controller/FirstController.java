@@ -24,15 +24,6 @@ public class FirstController {
 
         MusicSearch search = new MusicSearch();
 
-//        String response = search.search(accessToken, "해야");
-//        log.info(response);
-
-//        JsonObject jsonElement = (JsonObject)JsonParser.parseString(response);
-
-        //log.info(jsonElement.getClass() + ":" + jsonElement + "");
-
-//        log.info(jsonElement.get("tracks")+"");
-
         return "greetings"; // templates/greetings.mustache -> 브라우저로 전송
     }
 
