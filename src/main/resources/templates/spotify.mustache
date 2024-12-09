@@ -1,0 +1,25 @@
+{{>layouts/header}}
+<title>Spotify Top 50</title>
+<div class="container mt-5">
+    <h1 class="mb-4">Spotify Top 50</h1>
+    <ul class="list-group">
+        {{#searchResults}}
+            <li class="list-group-item">
+                <a href="{{spotifyUrl}}" class="spotify-link" target="_blank">
+                <div class="media align-items-lg-center flex-column flex-lg-row p-3">
+                    <span class="badge badge-primary mr-3">{{rank}}</span> <!-- 순위 표시 -->
+                    <div class="media-body order-2 order-lg-1">
+                        <h5 class="mt-0 font-weight-bold mb-2">{{artistName}} - {{trackName}}</h5>
+                        <p class="font-italic text-muted mb-0 small">{{albumName}}</p>
+                        <div class="d-flex align-items-center justify-content-between mt-1">
+                            <h6 class="font-weight-bold my-2">{{playtime}}</h6>
+                        </div>
+                    </div>
+                    <img src="{{albumImageUrl}}" alt="Album Image" class="album-image ml-lg-5 order-1 order-lg-2" style="width: 100px; height: auto;">
+                </div>
+                </a>
+            </li>
+        {{/searchResults}}
+    </ul>
+</div>
+{{>layouts/footer}}
