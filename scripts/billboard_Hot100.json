@@ -1,0 +1,602 @@
+[
+    {
+        "rank": 1,
+        "trackName": "A Bar Song (Tipsy)",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27380d86d636244b72a3a1eede2",
+        "composer": "Shaboozey"
+    },
+    {
+        "rank": 2,
+        "trackName": "Die With A Smile",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
+        "composer": "Lady Gaga, Bruno Mars"
+    },
+    {
+        "rank": 3,
+        "trackName": "Birds Of A Feather",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+        "composer": "Billie Eilish"
+    },
+    {
+        "rank": 4,
+        "trackName": "Espresso",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273255ec9ddd8af81fd9aba2ced",
+        "composer": "Sabrina Carpenter"
+    },
+    {
+        "rank": 5,
+        "trackName": "Lose Control",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+        "composer": "Teddy Swims"
+    },
+    {
+        "rank": 6,
+        "trackName": "That's So True",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+        "composer": "Gracie Abrams"
+    },
+    {
+        "rank": 7,
+        "trackName": "I Had Some Help",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27397306976e3eb8aad53b754eb",
+        "composer": "Post Malone, Morgan Wallen"
+    },
+    {
+        "rank": 8,
+        "trackName": "Taste",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+        "composer": "Sabrina Carpenter"
+    },
+    {
+        "rank": 9,
+        "trackName": "Beautiful Things",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf",
+        "composer": "Benson Boone"
+    },
+    {
+        "rank": 10,
+        "trackName": "Love Somebody",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2734b86223903ecefaa8df576a4",
+        "composer": "Morgan Wallen"
+    },
+    {
+        "rank": 11,
+        "trackName": "Good Luck, Babe!",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+        "composer": "Chappell Roan"
+    },
+    {
+        "rank": 12,
+        "trackName": "Too Sweet",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273586432d7a290adbb71344f76",
+        "composer": "The Macarons Project"
+    },
+    {
+        "rank": 13,
+        "trackName": "APT.",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27359639b3440e708daa35987be",
+        "composer": "ROSÉ, Bruno Mars"
+    },
+    {
+        "rank": 14,
+        "trackName": "Timeless",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27394f662ef3b5677376d8a78d4",
+        "composer": "The Weeknd, Playboi Carti"
+    },
+    {
+        "rank": 15,
+        "trackName": "Please Please Please",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e",
+        "composer": "Sabrina Carpenter"
+    },
+    {
+        "rank": 16,
+        "trackName": "Not Like Us",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad",
+        "composer": "Kendrick Lamar"
+    },
+    {
+        "rank": 17,
+        "trackName": "Sticky",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c",
+        "composer": "KISS OF LIFE"
+    },
+    {
+        "rank": 18,
+        "trackName": "I Am Not Okay",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273d80f1f7607d4b12390321773",
+        "composer": "Jelly Roll"
+    },
+    {
+        "rank": 19,
+        "trackName": "Lies Lies Lies",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27337eedb840f9441959db3107e",
+        "composer": "Morgan Wallen"
+    },
+    {
+        "rank": 20,
+        "trackName": "Stargazing",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27381b12e1a0584e8ea7ba2ae4a",
+        "composer": "Myles Smith"
+    },
+    {
+        "rank": 21,
+        "trackName": "Hot To Go!",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27346e5d771408b61ba8a683548",
+        "composer": "Wasted Tuition"
+    },
+    {
+        "rank": 22,
+        "trackName": "Sailor Song",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273e6065f209e0a01986206bd53",
+        "composer": "Gigi Perez"
+    },
+    {
+        "rank": 23,
+        "trackName": "St. Chroma",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273ab140827a03d1d0f0948217e",
+        "composer": "Trey, The Creator"
+    },
+    {
+        "rank": 24,
+        "trackName": "Tu Boda",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273b51d9a74d356d785cce9dea9",
+        "composer": "Oscar Maydon, Fuerza Regida"
+    },
+    {
+        "rank": 25,
+        "trackName": "Wildflower",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27302859310b61e59756abb90ad",
+        "composer": "Beach House"
+    },
+    {
+        "rank": 26,
+        "trackName": "Whatchu Kno About Me",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273083fbaed50f66e8849b264cc",
+        "composer": "GloRilla, Sexyy Red"
+    },
+    {
+        "rank": 27,
+        "trackName": "I Love You, I'm Sorry",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+        "composer": "Gracie Abrams"
+    },
+    {
+        "rank": 28,
+        "trackName": "Million Dollar Baby",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27301c0cd5da820e6128655854f",
+        "composer": "Tommy Richman"
+    },
+    {
+        "rank": 29,
+        "trackName": "High Road",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2733ee48dc8c693b228ef97f9a7",
+        "composer": "Tyson Leamon, Jacob Bryant"
+    },
+    {
+        "rank": 30,
+        "trackName": "Bed Chem",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+        "composer": "Sabrina Carpenter"
+    },
+    {
+        "rank": 31,
+        "trackName": "The Door",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+        "composer": "Teddy Swims"
+    },
+    {
+        "rank": 32,
+        "trackName": "Miles On It",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27300ac867eff7ed64be10a517c",
+        "composer": "Marshmello, Kane Brown"
+    },
+    {
+        "rank": 33,
+        "trackName": "Pink Skies",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2731a2c9ac2d39bc5c2e22b9555",
+        "composer": "Zach Bryan"
+    },
+    {
+        "rank": 34,
+        "trackName": "High Road",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2733ee48dc8c693b228ef97f9a7",
+        "composer": "Tyson Leamon, Jacob Bryant"
+    },
+    {
+        "rank": 35,
+        "trackName": "You Look Like You Love Me",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27398ec50a022a61a0286f0be1c",
+        "composer": "Ella Langley, Riley Green"
+    },
+    {
+        "rank": 36,
+        "trackName": "TGIF",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273b1c775aabd9f3ff0c4ed0b63",
+        "composer": "GloRilla"
+    },
+    {
+        "rank": 37,
+        "trackName": "Cowgirls",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2733418a9c988468c2753ab32ff",
+        "composer": "Luomo"
+    },
+    {
+        "rank": 38,
+        "trackName": "Last Christmas",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d",
+        "composer": "Wham!"
+    },
+    {
+        "rank": 39,
+        "trackName": "Ain't No Love In Oklahoma",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27339808230102049beb62fdd7b",
+        "composer": "Luke Combs"
+    },
+    {
+        "rank": 40,
+        "trackName": "Wind Up Missin' You",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273201038e1f96d823bbe379336",
+        "composer": "Tucker Wetmore"
+    },
+    {
+        "rank": 41,
+        "trackName": "I Can Do It With A Broken Heart",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+        "composer": "Taylor Swift"
+    },
+    {
+        "rank": 42,
+        "trackName": "Austin",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273b47b600e707a9149e21a41a0",
+        "composer": "CoverLove"
+    },
+    {
+        "rank": 43,
+        "trackName": "Darling, I",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2736e6e33b5447068146b190b39",
+        "composer": "Kublai"
+    },
+    {
+        "rank": 44,
+        "trackName": "Pink Pony Club",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+        "composer": "Chappell Roan"
+    },
+    {
+        "rank": 45,
+        "trackName": "Who",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273f02c451189a709b9a952aaec",
+        "composer": "Jimin"
+    },
+    {
+        "rank": 46,
+        "trackName": "Like Him",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27370f7c16341d0d6f08b981e98",
+        "composer": "Aaliyah Rose"
+    },
+    {
+        "rank": 47,
+        "trackName": "Help Me",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2735844da6093f9bb6581380063",
+        "composer": "Real Boston Richey"
+    },
+    {
+        "rank": 48,
+        "trackName": "Rah Tah Tah",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c",
+        "composer": "Tyler, The Creator"
+    },
+    {
+        "rank": 49,
+        "trackName": "This World's A Giant",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2737265724a877fd13c73b4ec59",
+        "composer": "Zach Bryan"
+    },
+    {
+        "rank": 50,
+        "trackName": "Kehlani",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27341944f2a01f7b56c0d64e024",
+        "composer": "BermudaCal"
+    },
+    {
+        "rank": 51,
+        "trackName": "Hard Fought Hallelujah",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273e6a84fdb6474fe2c88f1366e",
+        "composer": "Brandon Lake"
+    },
+    {
+        "rank": 52,
+        "trackName": "Dancing In The Flames",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273f0e9b93cadbeb4d0227a59eb",
+        "composer": "The Weeknd"
+    },
+    {
+        "rank": 53,
+        "trackName": "Beautiful As You",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273339efd3540a84a0be92a1a98",
+        "composer": "Thomas Rhett"
+    },
+    {
+        "rank": 54,
+        "trackName": "Dos Dias",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273dd153c3f853558d4584a97fd",
+        "composer": "Fondo Flamenco"
+    },
+    {
+        "rank": 55,
+        "trackName": "It's Ok I'm Ok",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273cd9a93745f6a7cd54deaab22",
+        "composer": "Tate McRae"
+    },
+    {
+        "rank": 56,
+        "trackName": "Disease",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273465e58cfc2ee480a7d0ae59d",
+        "composer": "Lady Gaga"
+    },
+    {
+        "rank": 57,
+        "trackName": "25",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2739dac2666a170341edfef18f5",
+        "composer": "Kid Milli, YANGHONGWON"
+    },
+    {
+        "rank": 58,
+        "trackName": "I Never Lie",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273e60cfb182df9bf24b4713edd",
+        "composer": "Zach Top"
+    },
+    {
+        "rank": 59,
+        "trackName": "Residuals",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2739c00f8a10b59974bcc9be858",
+        "composer": "Chris Brown"
+    },
+    {
+        "rank": 60,
+        "trackName": "Thought I Was Dead",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c",
+        "composer": "Tyler, The Creator, ScHoolboy Q, Santigold"
+    },
+    {
+        "rank": 61,
+        "trackName": "Heart Of A Woman",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2736d53dedc947bc07676d61634",
+        "composer": "Summer Walker"
+    },
+    {
+        "rank": 62,
+        "trackName": "+57",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273c665371d5e70273a44a8e301",
+        "composer": "KAROL G, Feid, DFZM, Ovy On The Drums, J Balvin, Maluma, Ryan Castro, Blessd"
+    },
+    {
+        "rank": 63,
+        "trackName": "I'm Gonna Love You",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27305203cde35ba2fef6ca7b970",
+        "composer": "D.O., Wonstein"
+    },
+    {
+        "rank": 64,
+        "trackName": "Juno",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+        "composer": "Sabrina Carpenter"
+    },
+    {
+        "rank": 65,
+        "trackName": "Noid",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273dc620428d6bbc305cd43c19b",
+        "composer": "Tyler, The Creator"
+    },
+    {
+        "rank": 66,
+        "trackName": "Shake Dat Ass (Twerk Song)",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273234bd6e89b3fdd30080447bd",
+        "composer": "BossMan Dlow"
+    },
+    {
+        "rank": 67,
+        "trackName": "Close To You",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2738397c13d059a3f0e6864dac6",
+        "composer": "Harryan Yoonsoan"
+    },
+    {
+        "rank": 68,
+        "trackName": "No One Noticed",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2734d070fdf58fad8c54c5beb85",
+        "composer": "The Marías"
+    },
+    {
+        "rank": 69,
+        "trackName": "28",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7",
+        "composer": "SEULGI"
+    },
+    {
+        "rank": 70,
+        "trackName": "Think I'm In Love With You",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2733e87501009d6a9d7e78889e5",
+        "composer": "Chris Stapleton"
+    },
+    {
+        "rank": 71,
+        "trackName": "Diet Pepsi",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2734e5a5862355a5e953549292b",
+        "composer": "Addison Rae"
+    },
+    {
+        "rank": 72,
+        "trackName": "Bad Dreams",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273de4b0388cb6e5267132a07bc",
+        "composer": "Teddy Swims"
+    },
+    {
+        "rank": 73,
+        "trackName": "Guy For That",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0",
+        "composer": "Post Malone, Luke Combs"
+    },
+    {
+        "rank": 74,
+        "trackName": "Liar",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273c513b72cb7fdbe7ddb3f41c7",
+        "composer": "ヨルシカ"
+    },
+    {
+        "rank": 75,
+        "trackName": "El Lokeron",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b",
+        "composer": "Tito Double P"
+    },
+    {
+        "rank": 76,
+        "trackName": "La Patrulla",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2732690127e1d6cd0aa35cc353b",
+        "composer": "Peso Pluma, Neton Vega"
+    },
+    {
+        "rank": 77,
+        "trackName": "No Pole",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273f5e27c2aa0b110c2b6611577",
+        "composer": "Don Toliver"
+    },
+    {
+        "rank": 78,
+        "trackName": "For Me",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27380c0a2d0bf89e3707b6365c4",
+        "composer": "DAY6"
+    },
+    {
+        "rank": 79,
+        "trackName": "I Luv Her",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273083fbaed50f66e8849b264cc",
+        "composer": "GloRilla, T-Pain"
+    },
+    {
+        "rank": 80,
+        "trackName": "Apple",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e",
+        "composer": "Charli xcx"
+    },
+    {
+        "rank": 81,
+        "trackName": "New Drop",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2735a7aaa6ecd40633b194bdf62",
+        "composer": "Cody G"
+    },
+    {
+        "rank": 82,
+        "trackName": "Good Graces",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+        "composer": "Sabrina Carpenter"
+    },
+    {
+        "rank": 83,
+        "trackName": "Him All Along",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273463729036408223f007d7ce1",
+        "composer": "Gunna"
+    },
+    {
+        "rank": 84,
+        "trackName": "Or What?",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273e732fbcb92cf77e524fef9cf",
+        "composer": "Rob $tone"
+    },
+    {
+        "rank": 85,
+        "trackName": "Mamushi",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273b8e7e0bf04f5c2334dc98e13",
+        "composer": "Megan Thee Stallion, 千葉雄喜"
+    },
+    {
+        "rank": 86,
+        "trackName": "Am I Okay?",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273f4e5bb0413006c1d561baf2a",
+        "composer": "Megan Moroney"
+    },
+    {
+        "rank": 87,
+        "trackName": "Lonely Road",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2733bce14005c2001c8004208ff",
+        "composer": "mgk, Jelly Roll"
+    },
+    {
+        "rank": 88,
+        "trackName": "Nel",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273369abe8c52c2c6ec50caa1db",
+        "composer": "Fuerza Regida"
+    },
+    {
+        "rank": 89,
+        "trackName": "Balloon",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2733f4d25299e90f04e44791b7f",
+        "composer": "ZICO"
+    },
+    {
+        "rank": 90,
+        "trackName": "Judge Judy",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c",
+        "composer": "Tyler, The Creator"
+    },
+    {
+        "rank": 91,
+        "trackName": "Wondering Why",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27303fd430cb92bf7c49183ab6f",
+        "composer": "The Red Clay Strays"
+    },
+    {
+        "rank": 92,
+        "trackName": "On One Tonight",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273c67636f3021f5869095c0fc5",
+        "composer": "Gunna"
+    },
+    {
+        "rank": 93,
+        "trackName": "Brokey",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27358726b4f55decb5fb2684cf6",
+        "composer": "Latto"
+    },
+    {
+        "rank": 94,
+        "trackName": "Take Your Mask Off",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c",
+        "composer": "Tyler, The Creator, Daniel Caesar, LaToiya Williams"
+    },
+    {
+        "rank": 95,
+        "trackName": "Thick Of It",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b2734b8b52a487c842534619501a",
+        "composer": "KSI, Trippie Redd"
+    },
+    {
+        "rank": 96,
+        "trackName": "Prove It",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273b8601276889eef7022de7e28",
+        "composer": "MINHO"
+    },
+    {
+        "rank": 97,
+        "trackName": "4x4xU",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27323776b0b08a9f12a118edb03",
+        "composer": "Lainey Wilson"
+    },
+    {
+        "rank": 98,
+        "trackName": "I Ain't Sayin'",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b27369566a7160a8124914c595aa",
+        "composer": "Jordan Davis"
+    },
+    {
+        "rank": 99,
+        "trackName": "The Largest",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273fed9afd601a1732fdae85ea8",
+        "composer": "BigXthaPlug"
+    },
+    {
+        "rank": 100,
+        "trackName": "Criminals",
+        "albumImage": "https://i.scdn.co/image/ab67616d0000b273aa7311843c07d62037906e02",
+        "composer": "Meghan Trainor"
+    }
+]

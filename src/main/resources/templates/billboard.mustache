@@ -1,0 +1,23 @@
+{{>layouts/header}}
+<title>Billboard Top 100</title>
+
+<div class="container mt-5">
+    <h1 class="mb-4">Billboard Hot 100</h1>
+    <ul class="list-group">
+        {{#billboardSongs}}
+            <li class="list-group-item">
+                <div class="media align-items-lg-center flex-column flex-lg-row p-3">
+                    <span class="badge badge-primary mr-3">{{rank}}</span> <!-- 순위 표시 -->
+                    <div class="media-body order-2 order-lg-1">
+                        <h5 class="mt-0 font-weight-bold mb-2">{{composer}} - {{trackName}}</h5>
+                    </div>
+                    {{#albumImage}}
+                        <img src="{{albumImage}}" alt="Album Image" class="album-image ml-lg-5 order-1 order-lg-2" style="width: 100px; height: auto;">
+                    {{/albumImage}}
+                </div>
+            </li>
+        {{/billboardSongs}}
+    </ul>
+</div>
+
+{{>layouts/footer}}
